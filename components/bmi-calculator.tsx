@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect, ChangeEvent } from "react"
+import { useState, ChangeEvent } from "react"
 import { Card,CardHeader,CardContent, CardTitle, CardDescription } from "./ui/card"
 import { Label } from "@radix-ui/react-label"
 import { Input } from "./ui/input"
